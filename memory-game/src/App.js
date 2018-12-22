@@ -22,7 +22,7 @@ class App extends Component {
       clickedGreat.push(id)
 
     if(clickedGreat.length ===13){
-        this.setState({score:13, status: "Bang Bang Niner Gang", clickedGreat:[]})
+        this.setState({score:13, status: "Bang Bang Niner Gang You Win", clickedGreat:[]})
         return;
       }
       this.setState({ niners, clickedGreat, score: clickedGreat.length, status: " "});
@@ -42,8 +42,14 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+        <Title>
+        49er Greats Clicky Game
+          <div total={this.state.score}
+        status={this.state.status}
+        ></div>
+        </Title> 
+
         
-        <Title>          </Title>
         {this.state.niners.map(niners => (
           <NinersCard
           removeNiner={this.removeNiner}

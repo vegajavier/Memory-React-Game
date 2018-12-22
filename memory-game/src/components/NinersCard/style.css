@@ -1,11 +1,10 @@
 .card {
-    background: rgb(184, 180, 180);
+    background: #aa8b03e5;
     border-radius: 2px;
     height: 325px;
     margin: 1rem;
     position: relative;
-    width: 325px;
-    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    width: 300px;
     text-align: left;
   }
   
@@ -13,7 +12,7 @@
     height: 60%;
     overflow: hidden;
     text-align: center;
-    background: rgb(63, 58, 58);
+    background: rgba(0, 0, 0, 0.849);
   }
   .card > .img-container > img {
     width: 60%;
@@ -31,11 +30,11 @@
   }
   
   .card > .content > ul > li {
-    margin-top: 18px;
+    margin-top: 10px;
   }
   
   .card > .remove {
-    color: #eeeaea;
+    color: #978801ea;
     font-size: 48px;
     position: absolute;
     top: -20px;
