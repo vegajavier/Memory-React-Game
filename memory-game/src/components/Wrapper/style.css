@@ -1,0 +1,11 @@
+.wrapper {
+    padding-top: 50px;
+    background: url("http://www.perhd.com/wp-content/uploads/2017/12/49ers-background-49ers-background-49ers-backgrounds-computer-49ers-background-hd-49ers-background-728x410.jpg");
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 100px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }

@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Jerry Rice",
+      "image": "https://cdn.bleacherreport.net/images_root/slides/photos/000/322/666/653266_original.jpg?1281123109",
+      "position": "WR",
+      "number": "80"
+    },
+    {
+        "id": 2,
+        "name": "Joe Montana",
+        "image": "https://i.pinimg.com/originals/cf/ff/21/cfff21c4a9c4b7be84f16dfa768ca976.jpg",
+        "position": "QB",
+        "number": "16"
+      },
+      {
+        "id": 3,
+        "name": "Steve Young",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2coOWMTvyTbRfmUU-mwaOR3Sa2lWT3kG2_rmp6k0ligLBgZ0M",
+        "position": "QB",
+        "number": "8"
+      },
+      {
+        "id": 4,
+        "name": "Dwight Clark",
+        "image": "https://img.huffingtonpost.com/asset/58cfeb2e2c00002000fef4b9.jpeg?cache=bapodtg9he&ops=scalefit_720_noupscale",
+        "position": "WR",
+        "number": "87"
+      },
+      {
+        "id": 5,
+        "name": "Bryant Young",
+        "image": "https://cdn.chatsports.com/cache/d6/21/d621cb35914377bb226d0d281c2aa215-original.jpg",
+        "position": "DT",
+        "number": "97"
+      },
+      {
+        "id": 6,
+        "name": "Jeff Garcia",
+        "image": "https://cdn.chatsports.com/cache/d6/21/d621cb35914377bb226d0d281c2aa215-original.jpg",
+        "position": "QB",
+        "number": "5"
+      },
+      {
+        "id": 7,
+        "name": "Terell Owens",
+        "image": "https://usattouchdownwire.files.wordpress.com/2017/05/giphy1.gif?w=1000",
+        "position": "WR",
+        "number": "81"
+      },
+      {
+        "id": 8,
+        "name": "Patrick Willis",
+        "image": "https://j.gifs.com/O7pMlr.gif",
+        "position": "LB",
+        "number": "52"
+      },
+      {
+        "id": 9,
+        "name": "Frank Gore",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20120112__49erskawa2.jpg?w=400",
+        "position": "RB",
+        "number": "21"
+      },
+      {
+        "id": 10,
+        "name": "Ronnie Lott",
+        "image": "https://cdn.vox-cdn.com/thumbor/DyTK8ZFubgQtZSXKjgSOFBZACVk=/0x57:726x541/1200x800/filters:focal(0x57:726x541)/cdn.vox-cdn.com/uploads/chorus_image/image/2799253/76691406.0.jpg",
+        "position": "S",
+        "number": "42"
+      },
+      {
+        "id": 11,
+        "name": "Colin Kaepernick",
+        "image": "https://media.giphy.com/media/LfaFe08J0B5ba/giphy.gif",
+        "position": "QB",
+        "number": "7"
+      },
+      {
+        "id": 12,
+        "name": "Joe Staley",
+        "image": "https://s.hdnux.com/photos/67/35/27/14538237/3/920x920.jpg",
+        "position": "LT",
+        "number": "74"
+      },
+      {
+        "id": 13,
+        "name": "Jimmy G",
+        "image": "https://s3-us-east-2.amazonaws.com/gruelingtruth-cdn/wp-content/uploads/2018/02/14095559/JimmyG.jpg",
+        "position": "QB",
+        "number": "10"
+      }
+]
